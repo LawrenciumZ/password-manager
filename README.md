@@ -1,4 +1,5 @@
 # password-manager
+```text
 .
 ├── ./README.md
 ├── ./data
@@ -7,3 +8,4 @@
 ├── ./encryption_utils.py
 ├── ./main.py
 └── ./requirements.txt
+```
